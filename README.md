@@ -34,7 +34,7 @@ module.exports = {
 
 5. set css file
 ```css
-/* .src/index.css */
+/* ./src/index.css */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
